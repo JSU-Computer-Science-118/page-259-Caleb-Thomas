@@ -1,6 +1,4 @@
 //Caleb Thomas 11/9/22 J00986740
-// Chapter 4 program num 7
-
 #include <iostream>
 #include <cmath>
 using namespace std;
