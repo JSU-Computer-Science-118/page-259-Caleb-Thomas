@@ -39,6 +39,7 @@ int main()
          root2 = (-b - sqrt((pow(b, 2) - 4 * a * c))) / (2 * a);
 
          cout << "There are two complex roots";
+         cin >>
          cout << "Root1 = " << root1 << endl;
          cout << "Root2 = " << root2 << endl;
      }
